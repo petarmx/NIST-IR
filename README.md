@@ -71,6 +71,12 @@ This analysis documents a Distributed Denial of Service (DDoS) attack against a 
 
 ---
 
+## 📄 Files Included
+
+- [Incident Report Analysis](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/Incident-report-analysis.pdf)
+
+---
+
 ## Key Recommendations  
 1. **Firewall Hardening:** Implement default-deny rules with explicit allow lists  
 2. **Continuous Monitoring:** Deploy 24/7 network traffic analysis with AI anomaly detection  
