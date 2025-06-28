@@ -75,4 +75,4 @@ This analysis documents a Distributed Denial of Service (DDoS) attack against a 
 1. **Firewall Hardening:** Implement default-deny rules with explicit allow lists  
 2. **Continuous Monitoring:** Deploy 24/7 network traffic analysis with AI anomaly detection  
 3. **Response Automation:** Develop runbooks for automated DDoS mitigation  
-4. **Third-Party Testing:** Conduct biannual penetration tests and DDoS simulations[8][11]  
+4. **Third-Party Testing:** Conduct biannual penetration tests and DDoS simulations 
